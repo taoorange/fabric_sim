@@ -1,0 +1,3 @@
+/Users/KXWELL/fabric_sim-main/build/CMakeFiles/fabric.dir
+/Users/KXWELL/fabric_sim-main/build/CMakeFiles/edit_cache.dir
+/Users/KXWELL/fabric_sim-main/build/CMakeFiles/rebuild_cache.dir
